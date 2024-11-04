@@ -17,6 +17,13 @@
             "type": "dart",
             "console": "terminal",
             "program": "Math Tables App/index2.dart"
+        },
+        {
+            "name": "Contact List",
+            "request": "launch",
+            "type": "dart",
+            "console": "terminal",
+            "program": "ContactList/index.dart"
         }
         
     ]
