@@ -9,21 +9,21 @@
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "Grading App/index.dart"
+            "program": "Grading App/main.dart"
         },
         {
             "name": "Math Tables App",
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "Math Tables App/index2.dart"
+            "program": "Math Tables App/main2.dart"
         },
         {
             "name": "Contact List",
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "ContactList/index.dart"
+            "program": "ContactList/main.dart"
         }
         
     ]
